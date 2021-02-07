@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaCompilerConfiguration">
-    <profile name="sbt 1" modules="jscfa-prototype_3162,test-sbt" />
+    <profile name="sbt 1" modules="JsCFA-prototype,jscfa-prototype_3162,test-sbt" />
   </component>
 </project>

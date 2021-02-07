@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jscfa-prototype_3162.iml" filepath="$PROJECT_DIR$/.idea/modules/jscfa-prototype_3162.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jscfa-prototype_3162-build.iml" filepath="$PROJECT_DIR$/.idea/modules/jscfa-prototype_3162-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JsCFA-prototype.iml" filepath="$PROJECT_DIR$/.idea/modules/JsCFA-prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JsCFA-prototype-build.iml" filepath="$PROJECT_DIR$/.idea/modules/JsCFA-prototype-build.iml" />
     </modules>
   </component>
 </project>
